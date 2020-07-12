@@ -21,8 +21,8 @@ p {
 }
 header#cabecalho img#icone{
     position: absolute;
-    left: 910px;
-    top: 65px;
+    left: 950px;
+    top: 30px;
 }
 header#cabecalho {
     border-bottom: 1px #606060 solid; /*largura da borda em px, cor da borda, formato da borda*/
